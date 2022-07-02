@@ -1,0 +1,198 @@
+hello and welcome to another episode of
+fully charged plus now a
+question we hear many many times is i'd
+love to buy an electric car but i've got
+nowhere off street to charge it where do
+i plug my car in
+and what we're looking at today with
+steve richardson from connected curb
+is a very very interesting solution to
+this problem now steve can you tell us
+what
+what inspired the development of the
+connected curb system
+so i mean just just to touch so what you
+see here today this is
+this is what we call the gecko this is
+one of our products that sort of sits on
+our sort of infrastructure so
+connected curb we are not just a cpo
+we're what we call a smart
+city infrastructure platform and that
+supports
+ev charging but it also supports 5g
+ultra fast broadband
+iot sensors micro mobility solutions but
+also all the future mobility
+solutions that are coming in and
+technologies that are coming online such
+as induction charging
+so that's what connected kirby's in the
+shell but um
+like i said as you see today this is one
+of our geckos the role of this
+particular unit you've got here
+is essentially to charge your car that's
+what its main role is but underneath
+that then there is connectivity that
+enables it that can't transmit a 5g
+signal that's what i guess what i'm
+asking
+so you could see the square plate on the
+bottom so that basically fits over
+a square metal box
+and in that box that box is what we call
+enable then with
+power and data so in each box comes a
+power duct and a data deck not
+necessarily a cable
+so what we do then we go down the street
+we put one of these boxes outside every
+two bays
+and then that street's enabled like your
+home is enabled for power
+at home with a socket in the wall so it
+means that when you want an
+ev charge point or if you want a 5g
+antenna
+you know you've got this connectivity in
+the street so in
+say five years time someone has
+developed a really affordable
+induction charging system you don't need
+to dig up the pavement and take out that
+box it's already in there
+yeah so what we do so we we've we've
+thought about that so with this box has
+the data duct and the power duct
+that sits underneath and then we we run
+a duct that sits underneath the kerb
+so that's then ready so if you want to
+bring on an
+induction charging pad you just put a
+call down through the tarmac so you
+don't have to dig up the
+atomic as well you call down through the
+tarmac find the duct
+thread the cable up through there and
+it's dense so you can remove
+the existing charger you just put your
+plate on top
+that looks like part of the footpath and
+then you've got an induction charging
+solution so the idea is you never have
+to dig up the streets again
+so it's all about that connectivity if
+you have that
+that power and that data at the curb you
+can pretty much do what you like
+so then the other thing is the street
+furniture i mean we've all seen it
+there's a car coming along the road and
+they pull up on the pavement or they
+don't see it or they bash into it or
+something it can get damaged so
+how much how big a hassle is that for
+you with these
+you know because i've seen it happen
+with charges is a problem and i think
+that's a lot
+of the issues with the charges you have
+on the street now you're right it's it's
+right by the curb so inherently
+it's going to get hit and when that gets
+hit a lot of the time it takes months
+and months and that thing is out of
+action so
+we designed that into our system so it's
+a modular system
+down to the ducting so the ducting you
+can upgrade the cables as and when you
+want
+but also all the technic technology sits
+below the ground
+so if this charger got hit that would
+just
+the say for instance that that socket
+was smashed
+you've got four bolts that sit on the
+top you can remove that
+take one out the back of the van and put
+a new one on so it's just all of its
+plug and play
+what you've got there is a post but what
+you're talking about where these are
+where i've seen them where they're
+connected on the street they're on an
+existing piece of street fenders you're
+not necessarily adding
+new street furniture and that is exactly
+the point i mean we we won the mayor of
+london award for innovation and part of
+that was showing that we
+are not adding to the street we're not
+adding to the street clutter i mean a
+lot of the councils they're obviously
+very keen to
+to get everybody to switch from petrol
+and diesel but they don't add these
+you know all of this charging
+infrastructure all of these charging
+hardware into the streets
+so part of why we looked at designing
+this around that was
+it take london for example there is 800
+000
+uh parking signs in london
+that all sit exactly that all sit on one
+of these posts they also all sit on the
+curb side rather than the pavement don't
+they they're all near the stream they're
+all near the street so it's exactly fits
+in with this so
+the idea is we could in theory today
+enable all 800 000 with a charge point
+but importantly
+with fiber so you could put a 5g antenna
+that's three meters above the ground so
+5g
+needs to be around that height and it
+all needs to be around 50 meters well
+each one of these is around 30 to 40
+meters apart
+so not only do you get an ev charging
+network you also get a 5g
+network as well so it becomes this smart
+piece of street furniture
+a massive part of what we do in
+connecticut
+is a sustainability piece so i mean
+these are recycled plastics the geckos
+we've got the the armadillo which we
+don't have today but it's on it's on our
+website which is a low
+sort of impact solution with but that's
+made out of three truck tires
+so we recycle the tyres of old vehicles
+that are getting scrapped
+turn them into a charger but also what a
+lot of people don't see is the
+infrastructure below the ground so all
+the duct in
+and the node boxes we are looking to
+make out of we
+source recycled material so all the
+ducting
+the the node box that goes in the ground
+is all made out of recycled plastic so
+approximately 4
+800 single use plastic bags we use for
+every charge point we put in
+and then of course if you then add on
+top of that two to three lorry tyres
+every child wants so
+not only are you reducing the pollution
+but you're also trying to address the
+sustainability piece with the
+recycling of the plastics
+you

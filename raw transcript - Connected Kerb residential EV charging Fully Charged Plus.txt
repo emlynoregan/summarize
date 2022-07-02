@@ -1,0 +1,398 @@
+0:04
+[Music]
+0:06
+hello and welcome to another episode of
+0:08
+fully charged plus now a
+0:10
+question we hear many many times is i'd
+0:12
+love to buy an electric car but i've got
+0:13
+nowhere off street to charge it where do
+0:15
+i plug my car in
+0:16
+and what we're looking at today with
+0:18
+steve richardson from connected curb
+0:20
+is a very very interesting solution to
+0:22
+this problem now steve can you tell us
+0:24
+what
+0:25
+what inspired the development of the
+0:28
+connected curb system
+0:29
+so i mean just just to touch so what you
+0:31
+see here today this is
+0:32
+this is what we call the gecko this is
+0:34
+one of our products that sort of sits on
+0:36
+our sort of infrastructure so
+0:37
+connected curb we are not just a cpo
+0:40
+we're what we call a smart
+0:42
+city infrastructure platform and that
+0:45
+supports
+0:46
+ev charging but it also supports 5g
+0:49
+ultra fast broadband
+0:50
+iot sensors micro mobility solutions but
+0:54
+also all the future mobility
+0:56
+solutions that are coming in and
+0:58
+technologies that are coming online such
+0:59
+as induction charging
+1:01
+so that's what connected kirby's in the
+1:03
+shell but um
+1:04
+like i said as you see today this is one
+1:06
+of our geckos the role of this
+1:08
+particular unit you've got here
+1:10
+is essentially to charge your car that's
+1:11
+what its main role is but underneath
+1:14
+that then there is connectivity that
+1:15
+enables it that can't transmit a 5g
+1:18
+signal that's what i guess what i'm
+1:20
+asking
+1:20
+so you could see the square plate on the
+1:22
+bottom so that basically fits over
+1:24
+a square metal box
+1:27
+and in that box that box is what we call
+1:29
+enable then with
+1:31
+power and data so in each box comes a
+1:33
+power duct and a data deck not
+1:35
+necessarily a cable
+1:36
+so what we do then we go down the street
+1:38
+we put one of these boxes outside every
+1:40
+two bays
+1:42
+and then that street's enabled like your
+1:44
+home is enabled for power
+1:45
+at home with a socket in the wall so it
+1:48
+means that when you want an
+1:49
+ev charge point or if you want a 5g
+1:51
+antenna
+1:52
+you know you've got this connectivity in
+1:54
+the street so in
+1:55
+say five years time someone has
+1:57
+developed a really affordable
+1:59
+induction charging system you don't need
+2:02
+to dig up the pavement and take out that
+2:04
+box it's already in there
+2:05
+yeah so what we do so we we've we've
+2:07
+thought about that so with this box has
+2:09
+the data duct and the power duct
+2:10
+that sits underneath and then we we run
+2:13
+a duct that sits underneath the kerb
+2:15
+so that's then ready so if you want to
+2:17
+bring on an
+2:18
+induction charging pad you just put a
+2:20
+call down through the tarmac so you
+2:22
+don't have to dig up the
+2:23
+atomic as well you call down through the
+2:25
+tarmac find the duct
+2:26
+thread the cable up through there and
+2:28
+it's dense so you can remove
+2:30
+the existing charger you just put your
+2:32
+plate on top
+2:33
+that looks like part of the footpath and
+2:35
+then you've got an induction charging
+2:36
+solution so the idea is you never have
+2:38
+to dig up the streets again
+2:40
+so it's all about that connectivity if
+2:41
+you have that
+2:43
+that power and that data at the curb you
+2:45
+can pretty much do what you like
+2:47
+so then the other thing is the street
+2:49
+furniture i mean we've all seen it
+2:50
+there's a car coming along the road and
+2:52
+they pull up on the pavement or they
+2:53
+don't see it or they bash into it or
+2:54
+something it can get damaged so
+2:56
+how much how big a hassle is that for
+2:59
+you with these
+3:00
+you know because i've seen it happen
+3:01
+with charges is a problem and i think
+3:03
+that's a lot
+3:04
+of the issues with the charges you have
+3:05
+on the street now you're right it's it's
+3:07
+right by the curb so inherently
+3:09
+it's going to get hit and when that gets
+3:11
+hit a lot of the time it takes months
+3:13
+and months and that thing is out of
+3:14
+action so
+3:15
+we designed that into our system so it's
+3:17
+a modular system
+3:18
+down to the ducting so the ducting you
+3:20
+can upgrade the cables as and when you
+3:22
+want
+3:22
+but also all the technic technology sits
+3:25
+below the ground
+3:26
+so if this charger got hit that would
+3:28
+just
+3:29
+the say for instance that that socket
+3:31
+was smashed
+3:32
+you've got four bolts that sit on the
+3:34
+top you can remove that
+3:36
+take one out the back of the van and put
+3:38
+a new one on so it's just all of its
+3:39
+plug and play
+3:40
+what you've got there is a post but what
+3:42
+you're talking about where these are
+3:44
+where i've seen them where they're
+3:45
+connected on the street they're on an
+3:46
+existing piece of street fenders you're
+3:48
+not necessarily adding
+3:49
+new street furniture and that is exactly
+3:51
+the point i mean we we won the mayor of
+3:53
+london award for innovation and part of
+3:55
+that was showing that we
+3:56
+are not adding to the street we're not
+3:58
+adding to the street clutter i mean a
+3:59
+lot of the councils they're obviously
+4:01
+very keen to
+4:02
+to get everybody to switch from petrol
+4:03
+and diesel but they don't add these
+4:06
+you know all of this charging
+4:08
+infrastructure all of these charging
+4:09
+hardware into the streets
+4:11
+so part of why we looked at designing
+4:14
+this around that was
+4:15
+it take london for example there is 800
+4:18
+000
+4:19
+uh parking signs in london
+4:22
+that all sit exactly that all sit on one
+4:25
+of these posts they also all sit on the
+4:28
+curb side rather than the pavement don't
+4:29
+they they're all near the stream they're
+4:30
+all near the street so it's exactly fits
+4:32
+in with this so
+4:33
+the idea is we could in theory today
+4:37
+enable all 800 000 with a charge point
+4:40
+but importantly
+4:42
+with fiber so you could put a 5g antenna
+4:45
+that's three meters above the ground so
+4:48
+5g
+4:49
+needs to be around that height and it
+4:50
+all needs to be around 50 meters well
+4:52
+each one of these is around 30 to 40
+4:54
+meters apart
+4:56
+so not only do you get an ev charging
+4:58
+network you also get a 5g
+5:00
+network as well so it becomes this smart
+5:03
+piece of street furniture
+5:04
+a massive part of what we do in
+5:05
+connecticut
+5:07
+is a sustainability piece so i mean
+5:11
+these are recycled plastics the geckos
+5:13
+we've got the the armadillo which we
+5:15
+don't have today but it's on it's on our
+5:16
+website which is a low
+5:18
+sort of impact solution with but that's
+5:20
+made out of three truck tires
+5:22
+so we recycle the tyres of old vehicles
+5:25
+that are getting scrapped
+5:26
+turn them into a charger but also what a
+5:29
+lot of people don't see is the
+5:30
+infrastructure below the ground so all
+5:32
+the duct in
+5:32
+and the node boxes we are looking to
+5:34
+make out of we
+5:35
+source recycled material so all the
+5:38
+ducting
+5:39
+the the node box that goes in the ground
+5:41
+is all made out of recycled plastic so
+5:43
+approximately 4
+5:44
+800 single use plastic bags we use for
+5:47
+every charge point we put in
+5:49
+and then of course if you then add on
+5:51
+top of that two to three lorry tyres
+5:52
+every child wants so
+5:54
+not only are you reducing the pollution
+5:55
+but you're also trying to address the
+5:57
+sustainability piece with the
+5:59
+recycling of the plastics
+6:10
+you
